@@ -1,3 +1,5 @@
 /checkpoints
 /val-test
-/.DS_Store
+.DS_Store
+*.log
+/output
