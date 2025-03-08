@@ -2,4 +2,7 @@
 /val-test
 .DS_Store
 *.log
-/output
+/*output
+/now
+/plots
+*.png
